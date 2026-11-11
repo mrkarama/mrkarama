@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Senior Flutter Developer
 -----------------------------------------
 
-I've graduated at the University of Sharda from 2019 to 2024 in the field of Data Science. While doing so I was learning Flutter and Backend Laravel. Now I'm learning Go and System Design to be a good backend developer.
+I've graduated at the University of Sharda from 2019 to 2024 in the field of Data Science. While doing so I was learning Flutter and Backend Laravel.
 
 * 🌍  I'm based in India, Greater Noida
 * 🖥️  See my portfolio at [My Website](http://codewithbande.dev)
